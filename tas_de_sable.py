@@ -16,4 +16,4 @@ canvas.grid(row=0, column=0)
 
 terrain.mainloop()
 
-L=[1,2,3]
+L=[1,2,3],[4,2,1]
